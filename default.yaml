@@ -366,3 +366,6 @@ key_binder:
 # KP_7	小键板7
 # KP_8	小键板8
 # KP_9	小键板9
+
+patch:
+  inline_preedit: false
